@@ -1,0 +1,4 @@
+Step 1: if number is even or not equals to 2 then
+	print 'YES'
+	else
+	print 'NO'
